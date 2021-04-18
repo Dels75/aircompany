@@ -1,25 +1,25 @@
 package Planes;
 
-import models.ClassificationLevel;
+import models.ClassificationByLevelSecrecy;
 import models.ExperimentalTypes;
 
 public class experimentalPlane extends Plane{
 
     private ExperimentalTypes type;
-    private ClassificationLevel classificationLevel;
+    private ClassificationByLevelSecrecy levelSecrecy;
 
-    public experimentalPlane(String model, int maxSpeed, int maxFlightDistance, int maxLoadCapacity, ExperimentalTypes type, ClassificationLevel classificationLevel) {
-        super(model, maxSpeed, maxFlightDistance, maxLoadCapacity);
+    public experimentalPlane(String modelPlane, int maxSpeed, int maxFlightDistance, int maxLoadCapacity, ExperimentalTypes type, ClassificationByLevelSecrecy levelSecrecy) {
+        super(modelPlane, maxSpeed, maxFlightDistance, maxLoadCapacity);
         this.type = type;
-        this.classificationLevel = classificationLevel;
+        this.levelSecrecy = levelSecrecy;
     }
 
-    public ClassificationLevel getClassificationLevel(){
-        return classificationLevel;
+    public ClassificationByLevelSecrecy getClassificationByLevelSecrecy(){
+        return levelSecrecy;
     }
 
-    public void setClassificationLevel(ClassificationLevel classificationLevel){
-        this.classificationLevel = classificationLevel;
+    public void setClassificationByLevelSecrecy(ClassificationByLevelSecrecy levelSecrecy){
+        this.levelSecrecy = levelSecrecy;
     }
 
     @Override
@@ -35,7 +35,7 @@ public class experimentalPlane extends Plane{
     @Override
     public String toString() {
         return "experimentalPlane{" +
-                "model='" + model + '\'' +
+                "model='" + modelPlane + '\'' +
                 '}';
     }
 }

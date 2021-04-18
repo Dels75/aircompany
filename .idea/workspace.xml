@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="88d7f10f-7e29-4708-b5f5-56107d80984a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/src/main/java/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/Airport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Planes/MilitaryPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/Planes/MilitaryPlane.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/src/main/java/Planes/MyPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/Planes/MyPlane.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/src/main/java/Planes/PassengerPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/Planes/PassengerPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Planes/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/Planes/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Planes/experimentalPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/Planes/experimentalPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/models/ClassificationLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/models/ClassificationByLevelSecrecy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/test/java/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/test/java/AirportTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +41,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rLOVdHPykjNgTnXSbVRL9Bsy0H" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
@@ -36,10 +66,40 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1618752614437">
+    <state x="26" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1618757577157">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618752614437" />
+    <state x="26" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618757577157" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1618754199565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618754199565" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1618757805600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618757805600" />
+    <state x="475" y="160" key="refactoring.ChangeSignatureDialog" timestamp="1618753918651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="160" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618753918651" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1618757737716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618757737716" />
   </component>
 </project>

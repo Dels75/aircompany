@@ -8,8 +8,8 @@ public class MilitaryPlane extends Plane{
 
     private MilitaryType type;
 
-    public MilitaryPlane(String model, int maxSpeed, int maxFlightDistance, int maxLoadCapacity, MilitaryType type) {
-        super(model, maxSpeed, maxFlightDistance, maxLoadCapacity);
+    public MilitaryPlane(String modelPlane, int maxSpeed, int maxFlightDistance, int maxLoadCapacity, MilitaryType type) {
+        super(modelPlane, maxSpeed, maxFlightDistance, maxLoadCapacity);
         this.type = type;
     }
 
