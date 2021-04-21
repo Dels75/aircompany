@@ -1,0 +1,20 @@
+
+>
+java:S1604P"(Make this anonymous inner class a lambda(æ¨Îš
+>
+java:S1604]"(Make this anonymous inner class a lambda(æ¨Îš
+>
+java:S1604f"(Make this anonymous inner class a lambda(æ¨Îš
+0
+java:S1220""Move this file to a named package.
+P
+java:S4838"5Change "Plane" to the type handled by the Collection.(÷ë«®ûÿÿÿÿ
+K
+java:S4838"5Change "Plane" to the type handled by the Collection.(ý²Ñô
+K
+java:S4838G"5Change "Plane" to the type handled by the Collection.(ý²Ñô
+<
+java:S1452n"&Remove usage of generic wildcard type.(ª©Êú
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(üÙÆÒ
+E
+java:S1144r"*Remove this unused private "print" method.(ëØ÷øùÿÿÿÿ

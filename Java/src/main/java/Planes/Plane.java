@@ -8,7 +8,7 @@ abstract public class Plane {
     private int maxFlightDistance;
     private int maxLoadCapacity;
 
-    public Plane(String modelPlane, int maxSpeed, int maxFlightDistance, int maxLoadCapacity) {
+    protected  Plane(String modelPlane, int maxSpeed, int maxFlightDistance, int maxLoadCapacity) {
         this.modelPlane = modelPlane;
         this.maxSpeed = maxSpeed;
         this.maxFlightDistance = maxFlightDistance;
