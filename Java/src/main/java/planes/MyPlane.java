@@ -1,4 +1,4 @@
-package Planes;
+package planes;
 
 public class MyPlane  extends Plane {
     public MyPlane(String modelPlane, int maxSpeed, int maxFlightDistance, int maxLoadCapacity) {

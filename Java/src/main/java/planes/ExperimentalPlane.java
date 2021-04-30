@@ -1,14 +1,14 @@
-package Planes;
+package planes;
 
 import models.ClassificationByLevelSecrecy;
 import models.ExperimentalTypes;
 
-public class experimentalPlane extends Plane{
+public class ExperimentalPlane extends Plane{
 
     private ExperimentalTypes experimentalType;
     private ClassificationByLevelSecrecy levelSecrecy;
 
-    public experimentalPlane(String modelPlane, int maxSpeed, int maxFlightDistance, int maxLoadCapacity, ExperimentalTypes experimentalType, ClassificationByLevelSecrecy levelSecrecy) {
+    public ExperimentalPlane(String modelPlane, int maxSpeed, int maxFlightDistance, int maxLoadCapacity, ExperimentalTypes experimentalType, ClassificationByLevelSecrecy levelSecrecy) {
         super(modelPlane, maxSpeed, maxFlightDistance, maxLoadCapacity);
         this.experimentalType = experimentalType;
         this.levelSecrecy = levelSecrecy;
